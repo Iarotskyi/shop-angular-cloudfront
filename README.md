@@ -1,5 +1,12 @@
 # Shop Angular Cloudfront
 
+S3 bucket URL:
+
+http://my-first-rs-app.s3-website.eu-north-1.amazonaws.com
+
+CloudFront URL:
+https://dzm08q7p1ab2w.cloudfront.net/
+
 Angular version: ~17.
 
 Repo maintainers:
